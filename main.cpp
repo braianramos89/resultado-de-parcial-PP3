@@ -19,3 +19,4 @@ int main() {
 
     return 0;
 }
+//Entiendo que el error es de concepto, ya que lo pense como un prestamo y el liblo / disco no puede contener un cliente mas alla de que haga lo solicitado
